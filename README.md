@@ -39,8 +39,8 @@ This is a simple **Analog Clock** project built using **HTML**, **CSS**, and **J
    - Open the `index.html` file in your browser to view the clock.
 
 3. **Customize**:
-   - Modify the `styles.css` file to change the appearance of the clock.
-   - Update the `script.js` file to add additional functionality.
+   - Modify the `index.css` file to change the appearance of the clock.
+   - Update the `index.js` file to add additional functionality.
 
 ---
 
@@ -49,8 +49,8 @@ This is a simple **Analog Clock** project built using **HTML**, **CSS**, and **J
 ```
 analog-clock/
 ├── index.html          # Main HTML file
-├── styles.css          # CSS file for styling
-├── script.js           # JavaScript file for functionality
+├── index.css          # CSS file for styling
+├── index.js           # JavaScript file for functionality
 ├── README.md           # Project documentation
 └── clock.png           # Image of the Clock
 ```
@@ -62,10 +62,10 @@ analog-clock/
 ### HTML (`index.html`)
 The HTML file contains the structure of the clock, including the clock face and hands.
 
-### CSS (`styles.css`)
+### CSS (`index.css`)
 The CSS file styles the clock and adds animations for the hands.
 
-### JavaScript (`script.js`)
+### JavaScript (`index.js`)
 The JavaScript file calculates the current time and updates the clock hands accordingly.
 
 
